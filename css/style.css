@@ -1,0 +1,22 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+ul{
+   display: flex;
+}
+
+li{
+   padding: 160px;
+   margin: 36px;
+   background-color: aquamarine;
+   list-style: none;
+}
+input{
+   margin: 8px  16px 8px 4px;
+}
+
+#lista_prod li{
+   display: flex;
+   flex-direction: column;
+} 
